@@ -1,0 +1,3 @@
+rootProject.name = 'WebStormReactNative'
+
+include ':app'
